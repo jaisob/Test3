@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.pruebas.jaime</groupId>
 	<artifactId>TestTag</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 
 	<scm>
 		<connection>scm:git:ssh://git@github.com:jaisob/Test.git</connection>
